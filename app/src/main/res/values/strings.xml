@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TinderDemo</string>
+    <string name="error_msg">Oops! Something Went Wrong :( </string>
+    <string name="profile">Profile</string>
+    <string name="liked">Liked</string>
+    <string name="unliked">Unliked</string>
+</resources>
